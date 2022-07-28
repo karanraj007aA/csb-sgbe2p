@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://karanraj007aa.github.io/csb-sgbe2p/static/css/main.d7901753.chunk.css",
+    "main.js": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/main.9f34e044.chunk.js",
+    "main.js.map": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/main.9f34e044.chunk.js.map",
+    "runtime-main.js": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/runtime-main.50c1c1ba.js",
+    "runtime-main.js.map": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/runtime-main.50c1c1ba.js.map",
+    "static/js/2.cf20b505.chunk.js": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/2.cf20b505.chunk.js",
+    "static/js/2.cf20b505.chunk.js.map": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/2.cf20b505.chunk.js.map",
+    "index.html": "https://karanraj007aa.github.io/csb-sgbe2p/index.html",
+    "static/css/main.d7901753.chunk.css.map": "https://karanraj007aa.github.io/csb-sgbe2p/static/css/main.d7901753.chunk.css.map",
+    "static/js/2.cf20b505.chunk.js.LICENSE.txt": "https://karanraj007aa.github.io/csb-sgbe2p/static/js/2.cf20b505.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50c1c1ba.js",
+    "static/js/2.cf20b505.chunk.js",
+    "static/css/main.d7901753.chunk.css",
+    "static/js/main.9f34e044.chunk.js"
+  ]
+}
